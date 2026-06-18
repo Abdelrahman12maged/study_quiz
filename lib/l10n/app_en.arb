@@ -1,0 +1,138 @@
+{
+  "@@locale": "en",
+  "appName": "AI Study Buddy",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "recentSessions": "Recent Sessions",
+  "seeAll": "See All",
+  "noSessionsYet": "No sessions yet",
+  "captureFirstPageSubtitle": "Capture your first page to start generating quiz questions!",
+  "capturePageSubtitle": "Capture a page to get started!",
+  "captureAPage": "Capture a Page",
+  "takePhotoOfNotes": "Take a photo of your notes to generate a quiz",
+  "thisWeek": "This Week",
+  "questionsLabel": "questions",
+  "accuracy": "Accuracy",
+  "correctLabel": "correct",
+  "streak": "Streak",
+  "daysLabel": "days",
+  "history": "History",
+  "all": "All",
+  "noSessionsFound": "No sessions found",
+  "tryDifferentFilterOrStart": "Try a different filter or start a new study session.",
+  "tryDifferentFilter": "Try a different filter.",
+  "questionsCount": "{count} questions",
+  "@questionsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "stageReadingNotes": "Reading your notes…",
+  "stageExtractingConcepts": "Extracting key concepts…",
+  "stageGeneratingQuestions": "Generating questions…",
+  "stageFindingSources": "Finding reference sources…",
+  "stageAlmostReady": "Almost ready…",
+  "processingFailed": "Processing failed. Please try capturing again.",
+  "stepOfTotal": "Step {step} of {total}",
+  "@stepOfTotal": {
+    "placeholders": {
+      "step": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "welcomeBack": "Welcome Back",
+  "signInToContinue": "Sign in to continue your study sessions",
+  "emailLabel": "Email",
+  "emailRequired": "Email is required",
+  "invalidEmail": "Enter a valid email",
+  "passwordLabel": "Password",
+  "passwordRequired": "Password is required",
+  "passwordTooShort": "At least 6 characters",
+  "forgotPassword": "Forgot Password?",
+  "signIn": "Sign In",
+  "dontHaveAccount": "Don't have an account? ",
+  "signUp": "Sign Up",
+  "createAccount": "Create Account",
+  "startStudyJourney": "Start your AI-powered study journey",
+  "confirmPassword": "Confirm Password",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "alreadyHaveAccount": "Already have an account? ",
+  "alignPageWithinFrame": "Align your page within the frame",
+  "makeSureTextIsClear": "Make sure the text is clear and well-lit",
+  "takePhoto": "Take Photo",
+  "chooseFromGallery": "Choose from Gallery",
+  "retake": "Retake",
+  "upload": "Upload",
+  "uploadFailed": "Upload Failed",
+  "tryAgain": "Try Again",
+  "questionOfTotal": "Question {index} of {total}",
+  "@questionOfTotal": {
+    "placeholders": {
+      "index": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "multipleChoice": "Multiple Choice",
+  "trueOrFalse": "True or False",
+  "seeResults": "See Results",
+  "nextQuestion": "Next Question",
+  "confirmAnswer": "Confirm Answer",
+  "explanation": "Explanation",
+  "scoreOutstanding": "Outstanding! 🎉",
+  "scoreWellDone": "Well done! 👏",
+  "scoreGoodEffort": "Good effort! Keep going.",
+  "scoreKeepStudying": "Keep studying — you'll get there!",
+  "scoreCorrectOfTotal": "{correct} / {total} correct",
+  "@scoreCorrectOfTotal": {
+    "placeholders": {
+      "correct": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "backToHome": "Back to Home",
+  "newSession": "New Session",
+  "review": "Review",
+  "mistakesOnly": "Mistakes only",
+  "questionNumberAndText": "Q{number}. {text}",
+  "@questionNumberAndText": {
+    "placeholders": {
+      "number": { "type": "int" },
+      "text": { "type": "String" }
+    }
+  },
+  "correctAnswer": "Correct: ",
+  "yourAnswer": "Your answer: ",
+  "settingsTitle": "Settings",
+  "appearance": "Appearance",
+  "theme": "Theme",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "language": "Language",
+  "english": "English",
+  "arabic": "العربية",
+  "account": "Account",
+  "accountInfo": "Account Info",
+  "notSignedIn": "Not signed in",
+  "signOut": "Sign Out",
+  "about": "About",
+  "appVersion": "App Version",
+  "signOutConfirmation": "Are you sure you want to sign out?",
+  "cancel": "Cancel",
+  "onboardingTitle1": "Capture Your Notes",
+  "onboardingSubtitle1": "Take a photo of your textbook or handwritten notes — AI Study Buddy reads it instantly.",
+  "onboardingTitle2": "AI Generates Questions",
+  "onboardingSubtitle2": "Our AI pipeline creates targeted quiz questions with explanations and real reference sources.",
+  "onboardingTitle3": "Learn & Improve",
+  "onboardingSubtitle3": "Test your understanding, review explanations, and track your progress over time.",
+  "skip": "Skip",
+  "getStarted": "Get Started",
+  "next": "Next"
+}

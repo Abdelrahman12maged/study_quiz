@@ -1,0 +1,69 @@
+name: study_quiz
+description: "AI Study Buddy — photograph your notes, get instant quiz questions powered by Gemini."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+
+  # Navigation
+  go_router: ^14.6.2
+
+  # Camera / image
+  image_picker: ^1.1.2
+
+  # Fonts
+  google_fonts: ^6.2.1
+
+  # URL launching (external quiz sources)
+  url_launcher: ^6.3.1
+
+  # Local persistence (theme, onboarding flag)
+  shared_preferences: ^2.3.2
+
+  # Date/time formatting
+  intl: any
+
+  # Loading skeleton shimmer
+  shimmer: ^3.0.0
+
+  # Onboarding page indicator
+  smooth_page_indicator: ^1.2.0
+
+  cupertino_icons: ^1.0.8
+
+  # Backend
+  supabase_flutter: ^2.12.4
+
+  # Dependency injection
+  get_it: ^8.0.3
+  
+  # HTTP client
+  dio: ^5.7.0
+
+  # Localization
+  flutter_localizations:
+    sdk: flutter
+  fpdart: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
