@@ -1,4 +1,4 @@
-# AI Study Buddy (Study Quiz)
+# AI Study Buddy (Study Quiz App)
 
 An AI-powered Flutter application that allows users to photograph their study notes and instantly generates interactive quizzes using Artificial Intelligence. The app uses **Supabase** for backend services (Database, Storage, Auth) and an **n8n webhook** to orchestrate the AI processing (e.g., using Gemini/Tavily).
 
